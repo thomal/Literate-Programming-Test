@@ -1,0 +1,5 @@
+*.aux
+*.hi
+*.log
+*.o
+8queens
