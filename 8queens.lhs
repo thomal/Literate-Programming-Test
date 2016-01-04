@@ -49,7 +49,7 @@ or ``adding one'' refer to this interpretation of a configuration as an integer.
 By counting up through all base-$n+1$ numbers of $n$ digits we will thus
 consider all correct solutions.
 
-However if we find that a given value of the number, which contains tailing
+However if we find that a given value of the number, which contains trailing
 zeros, is invalid then we know that all other numbers with that prefix are also
 invalid, and so we can skip them. Thus we accelerate the process of counting
 up.
